@@ -1,0 +1,16 @@
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Debug\net6.0-windows\NombreDeProyecto.exe
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Debug\net6.0-windows\NombreDeProyecto.deps.json
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Debug\net6.0-windows\NombreDeProyecto.runtimeconfig.json
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Debug\net6.0-windows\NombreDeProyecto.dll
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Debug\net6.0-windows\NombreDeProyecto.pdb
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.Form1.resources
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.csproj.GenerateResource.cache
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.AssemblyInfoInputs.cache
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.AssemblyInfo.cs
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.csproj.CoreCompileInputs.cache
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.dll
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\refint\NombreDeProyecto.dll
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.pdb
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\NombreDeProyecto.genruntimeconfig.cache
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\obj\Debug\net6.0-windows\ref\NombreDeProyecto.dll
