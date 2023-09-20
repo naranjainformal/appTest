@@ -1,0 +1,5 @@
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Release\net6.0-windows\app.publish\NombreDeProyecto.exe
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Release\net6.0-windows\app.publish\NombreDeProyecto.dll
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Release\net6.0-windows\app.publish\NombreDeProyecto.deps.json
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Release\net6.0-windows\app.publish\NombreDeProyecto.runtimeconfig.json
+C:\Proyectos\appTest\Solucion\NombreDeProyecto\bin\Release\net6.0-windows\app.publish\NombreDeProyecto.pdb

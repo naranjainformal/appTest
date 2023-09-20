@@ -39,6 +39,7 @@
             label1.Size = new Size(81, 20);
             label1.TabIndex = 0;
             label1.Text = "VERSION 1";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
